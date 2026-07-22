@@ -1,0 +1,11 @@
+public class Main {
+    public static void main (String []args){
+        String  name = "john" ;
+        String  collage  = "Vitap";
+        String Branch = "CSE";
+        
+        System.out.println("name:"+name);
+        System.out.println("collage:"+ collage);
+        System.out.println("Branch:"+Branch);
+    }
+}
