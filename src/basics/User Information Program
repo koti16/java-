@@ -1,0 +1,17 @@
+public class Main {
+    public static void main (String []args){
+        String  name = "john" ;
+        int  age  = 20;
+        String Branch = "CSE";
+        String collage = "VIT-AP";
+        float CGPA =  8.75f;
+        
+        System.out.println("-----student Details------");
+        System.out.println("Name:"+ name);
+        System.out.println("Age :" +  age);
+        System.out.println("College : " + collage);
+        System.out.println(" CGPA:  "+ CGPA);
+        
+        System.out.println("--------------------");
+    }
+}
