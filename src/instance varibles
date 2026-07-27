@@ -1,0 +1,5 @@
+class main student {
+    //instance varibles(Non-static Fields)
+    int id = 124;
+    public static void main(string[]args)
+}
