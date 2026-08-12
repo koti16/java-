@@ -1,0 +1,19 @@
+import java.util.*;
+
+public class Main {
+    static int phi(int n){
+        int phi = n-1;
+        
+        return phi;
+    }
+    public static void main (String[]args){
+        Scanner sc = new Scanner(System.in);
+        System.out.println("enter a number");
+        int n = sc.nextInt();
+        
+        int result = phi(n);
+        
+        System.out.println("phi("+n + ") = " + result );
+        
+    }
+}
